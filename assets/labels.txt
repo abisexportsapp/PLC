@@ -1,0 +1,7 @@
+0 Coccidiosis Disease
+1 E Coli Infection
+2 Infectious bursal disease
+3 Inclusion body hepatitis
+4 Newcastle Disease
+5 colibacillosis
+6 Yolk Infection
